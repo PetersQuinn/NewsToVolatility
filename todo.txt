@@ -1,1 +1,2 @@
 - add requirements when done
+- complete README.md
